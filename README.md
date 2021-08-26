@@ -1,5 +1,5 @@
 # vocoderharm
-a vocoder called Andrii
+a vocoder named Andrii
 
 Install PYO (dedicated Python module for digital signal processing)
 
