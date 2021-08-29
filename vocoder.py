@@ -11,7 +11,7 @@ from pyo import *
 
 s = Server()
 
-# To Find what number to put in the Input and Output
+# To Find what number to put in the Input and Output - When running make sure this the only code that is being run
 
 # print("Audio host APIs:")
 # pa_list_host_apis()
